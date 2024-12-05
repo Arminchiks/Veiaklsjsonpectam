@@ -1,4 +1,4 @@
-from urllib import response
+
 import requests
 
 url='https://fakestoreapi.com/carts?limit=1'
